@@ -4605,8 +4605,8 @@ textarea.form-control {
 
 .header {
   position: relative;
-  height: 100vh;
-  min-height: 500px;
+  height: 550px;
+  min-height: 30px;
   background: url(Backgroundupdated.png) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
